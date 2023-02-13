@@ -1,0 +1,13 @@
+(module NoFootprint (layer F.Cu) (tedit 5EFE35A4)
+  (attr virtual)
+  (fp_text reference REF** (at 0 1) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value NoFootprint (at 0 -1.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start -0.2 -0.2) (end 0.2 -0.2) (layer F.CrtYd) (width 0.12))
+  (fp_line (start 0.2 -0.2) (end 0.2 0.2) (layer F.CrtYd) (width 0.12))
+  (fp_line (start 0.2 0.2) (end -0.2 0.2) (layer F.CrtYd) (width 0.12))
+  (fp_line (start -0.2 0.2) (end -0.2 -0.2) (layer F.CrtYd) (width 0.12))
+)

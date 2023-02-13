@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name LogoUTN)(type KiCad)(uri ${KIPRJMOD}/footprints/LogoUTN.pretty)(options "")(descr ""))
+  (lib (name tp2)(type KiCad)(uri ${KIPRJMOD}/footprints/tp2.pretty)(options "")(descr ""))
+)
