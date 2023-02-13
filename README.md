@@ -57,7 +57,7 @@ Cabe aclarar que para obtener el VMAX a la salida, la entrada tiene que tener el
 
 # Diagrama Esquemático:
 
-<img src="./informe/Esquematico.jpg">
+<img src="./Informe/Esquematico.jpg">
 
 # Circuito impreso
 
